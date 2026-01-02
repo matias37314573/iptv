@@ -1,0 +1,42 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml"
+
+########## CÓRDOBA ##########
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/el-doce.png" group-title="Córdoba",El Doce
+https://iptv-org.github.io/channels/ar/ElDoce.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/telefe-cordoba.png" group-title="Córdoba",Telefe Córdoba
+https://iptv-org.github.io/channels/ar/TelefeCordoba.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/canal-10-cordoba.png" group-title="Córdoba",Canal 10 Córdoba
+https://iptv-org.github.io/channels/ar/Canal10Cordoba.m3u8
+
+
+########## CANALES NACIONALES ##########
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/el-trece.png" group-title="Argentina",El Trece
+https://iptv-org.github.io/channels/ar/ElTrece.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/telefe.png" group-title="Argentina",Telefe
+https://iptv-org.github.io/channels/ar/Telefe.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/america-tv.png" group-title="Argentina",América TV
+https://iptv-org.github.io/channels/ar/AmericaTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/el-nueve.png" group-title="Argentina",El Nueve
+https://iptv-org.github.io/channels/ar/ElNueve.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/tv-publica.png" group-title="Argentina",TV Pública
+https://iptv-org.github.io/channels/ar/TVPublica.m3u8
+
+
+########## NOTICIAS ##########
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/c5n.png" group-title="Noticias",C5N
+https://iptv-org.github.io/channels/ar/C5N.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/tn.png" group-title="Noticias",TN
+https://iptv-org.github.io/channels/ar/TN.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/logos/ar/la-nacion-plus.png" group-title="Noticias",La Nación+
+https://iptv-org.github.
